@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="33"
+   viewBox="0 0 32 33"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="SwitchDark.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="21"
+     inkscape:cx="-3.3088058"
+     inkscape:cy="10.875594"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <circle
+     cx="15.980419"
+     cy="16.424538"
+     r="6.6407762"
+     id="circle2"
+     style="stroke-width:3.156;stroke-miterlimit:4;stroke-dasharray:none" />
+  <line
+     x1="15.980419"
+     y1="1.8148292"
+     x2="15.980419"
+     y2="4.4711399"
+     id="line4"
+     style="stroke-width:2.65631" />
+  <line
+     x1="15.980419"
+     y1="28.377934"
+     x2="15.980419"
+     y2="31.034245"
+     id="line6"
+     style="stroke-width:2.65631" />
+  <line
+     x1="5.6473708"
+     y1="6.0914888"
+     x2="7.5333514"
+     y2="7.9774694"
+     id="line8"
+     style="stroke-width:2.65631" />
+  <line
+     x1="24.427488"
+     y1="24.871605"
+     x2="26.313469"
+     y2="26.757586"
+     id="line10"
+     style="stroke-width:2.65631" />
+  <line
+     x1="1.3707113"
+     y1="16.424538"
+     x2="4.0270219"
+     y2="16.424538"
+     id="line12"
+     style="stroke-width:2.65631" />
+  <line
+     x1="27.933817"
+     y1="16.424538"
+     x2="30.590128"
+     y2="16.424538"
+     id="line14"
+     style="stroke-width:2.65631" />
+  <line
+     x1="5.6473708"
+     y1="26.757586"
+     x2="7.5333514"
+     y2="24.871605"
+     id="line16"
+     style="stroke-width:2.65631" />
+  <line
+     x1="24.427488"
+     y1="7.9774694"
+     x2="26.313469"
+     y2="6.0914888"
+     id="line18"
+     style="stroke-width:2.65631" />
+</svg>
